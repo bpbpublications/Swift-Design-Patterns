@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='SingleTon'/>
+        <page name='WithoutSingleton'/>
+        <page name='WithSingletonPattern'/>
+        <page name='FactoryMethod'/>
+        <page name='WithoutFactoryMethod '/>
+        <page name='WithFactoryMethodPattern'/>
+        <page name='AbstractFactory'/>
+        <page name='WithoutAbstractFactory '/>
+        <page name='WithAbstractFactory'/>
+        <page name='BuilderPattern'/>
+        <page name='WithoutBuilderPattern'/>
+        <page name='WithBuilderPattern'/>
+        <page name='PrototypePattern'/>
+        <page name='WithoutPrototypePattern'/>
+        <page name='WithPrototypePattern'/>
+        <page name='ObjectPoolPattern'/>
+        <page name='WithoutObjectPoolPattern'/>
+        <page name='WithObjectPoolPattern'/>
+    </pages>
+</playground>

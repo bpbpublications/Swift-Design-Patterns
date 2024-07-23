@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='ObserverPattern'/>
+        <page name='ObserverPatternExmaple'/>
+        <page name='StrategyPattern '/>
+        <page name='StrategyPatternExample'/>
+        <page name='CommandPattern'/>
+        <page name='CommandPatternExample'/>
+        <page name='ChainofResponsibilityPattern'/>
+        <page name='ChainofResponsibilityPatternExample'/>
+        <page name='StatePattern '/>
+        <page name='StatePatternExample'/>
+        <page name='IteratorPattern'/>
+        <page name='IteratorPatternExample'/>
+        <page name='ProxyPattern'/>
+        <page name='ProxyPatternExample'/>
+    </pages>
+</playground>

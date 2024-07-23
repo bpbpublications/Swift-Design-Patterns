@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='ImproperUseOptionals'/>
+        <page name='ErrorHandling'/>
+        <page name='MemoryManagement'/>
+        <page name='MemoryManagementIssue'/>
+        <page name='FixMemoryManagementIssue'/>
+        <page name='MassiveViewController'/>
+        <page name='OveruseOfSingletons'/>
+        <page name='TightCouplingBetweenComponents'/>
+        <page name='InappropriateUseOfDelegation'/>
+        <page name='HeavyComputationOnMainThread'/>
+        <page name='ExcessiveStringManipulation'/>
+        <page name='MemoryIntensiveOperations'/>
+        <page name='OCPTestCase'/>
+        <page name='LSPTestCase'/>
+        <page name='ISPTestCase'/>
+        <page name='DIPTestCase'/>
+        <page name='Error handling'/>
+    </pages>
+</playground>

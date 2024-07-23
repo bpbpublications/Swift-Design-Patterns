@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='ArrayEmaple'/>
+        <page name='DictionaryExample'/>
+        <page name='ErrorHandling'/>
+        <page name='FunctionsAndClosure'/>
+        <page name='LoopsAndConditionals'/>
+        <page name='Operator'/>
+        <page name='Optionals'/>
+        <page name='SetExample'/>
+        <page name='StringInterpolation'/>
+        <page name='Protocol'/>
+        <page name='Concurrency '/>
+        <page name='AsyncAwait'/>
+        <page name='RaceConditions'/>
+        <page name='Deadlock'/>
+        <page name='RetainCycle'/>
+    </pages>
+</playground>

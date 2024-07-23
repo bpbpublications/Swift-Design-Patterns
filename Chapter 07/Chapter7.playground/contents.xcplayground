@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='ViolatingSRP'/>
+        <page name='RefactoringSRP'/>
+        <page name='OpenForExtentionInheritance'/>
+        <page name='OpenForExtentionProtocol'/>
+        <page name='BreakingLSP'/>
+        <page name='AdheringLSP'/>
+        <page name='ImplementationISP'/>
+        <page name='ViolatingDIP'/>
+        <page name='AdhereDIP'/>
+        <page name='ViolationSOLIDPrinciples'/>
+        <page name='AdheretoSOLIDPrinciples'/>
+        <page name='SRPTestCase'/>
+        <page name='OCPTestCase'/>
+        <page name='LSPTestCase'/>
+        <page name='ISPTestCase'/>
+        <page name='DIPTestCase'/>
+    </pages>
+</playground>
